@@ -2,10 +2,12 @@
 The purpose of this project is to perform exploratory data analysis and K-Means Clustering on the Iris Dataset.
 
 The Iris data set contains 3 classes of 50 instances each, where each class refers to a specie of the iris plant.  One class is linearly separable from the other 2; the latter are not linearly separable from each other. Along with the three different species (Iris setosa, Iris virginica, and Iris versicolor), it has four features measured for each sample: the sepal length and width, and the petal length and width. Since clustering is normally performed on unsupervised data, the dataframe I used for clustering in this project contains only the feature data for the samples and not their species. I later use the species data to evaluate the clusters’ accuracy.    
-*For full dataset description look at iris.names file.*
+*For full dataset description look at iris.names file:* [Iris.names](https://github.com/hirwaishimwe/Iris_KMeans_Clustering/blob/main/iris.names)
 
 Flower Specie Image (Versicolor, Setosa, Virginica):
 ![Iris Image](iris.png)
+
+## The Code and Implementation: [Iris_K_Means.ipynb](Iris_K_Means.ipynb)
 I use Python and Jupyter notebook.
 
 I use the following Python libraries:
@@ -13,7 +15,7 @@ I use the following Python libraries:
 - Seaborn and matplotlib for data visualization, 
 - Scikit-learn (sklearn) for machine learning.
 
-## The process 
+## The Process 
 1. Set up
 2. Explotary Data Analysis
 3. Find the optimal number of clusters (k)
