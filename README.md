@@ -7,7 +7,7 @@ The Iris data set contains 3 classes of 50 instances each, where each class refe
 Flower Specie Image (Versicolor, Setosa, Virginica):
 ![Iris Image](iris.png)
 
-## The Code and Implementation: [Iris_K_Means.ipynb](Iris_K_Means.ipynb)
+## The Code and Implementation: [Iris-K-Means.ipynb](Iris-K-Means.ipynb)
 I use Python and Jupyter notebook.
 
 I use the following Python libraries:
